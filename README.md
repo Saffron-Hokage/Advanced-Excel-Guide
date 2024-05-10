@@ -20,4 +20,4 @@ The tutorial covers a wide range of topics, including:
 To get started with the tutorial, simply clone this repository to your local machine and open the tutorial document in Excel. You can follow along with the step-by-step instructions and examples provided in the document to practice and reinforce your learning.
 
 ```bash
-git clone https://github.com/yourusername/advanced-excel-tutorial.git
+git clone git@github.com:Saffron-Hokage/Advanced-Excel-Guide.git
